@@ -1,2 +1,4 @@
-# QtControls
-自定义 Qt 的简单控件
+### QtControls
+*自定义各种的简单控件*
+
+* Switch 控件
